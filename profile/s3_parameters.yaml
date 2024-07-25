@@ -1,0 +1,10 @@
+parameters:
+  region_name: ''
+  location_constraint: ''
+  internal: ''
+  path_internal_raw: 'measures/raw/'
+  path_internal_points: 'measures/points/'
+  path_internal_references: 'references/'
+  external: ''
+  path_external_raw: 'numerics'
+  path_external_references: 'references/'
