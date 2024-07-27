@@ -6,5 +6,5 @@ parameters:
   path_internal_points: 'measures/points/'
   path_internal_references: 'references/'
   external: ''
-  path_external_raw: 'numerics'
+  path_external_points: 'numerics/'
   path_external_references: 'references/'
